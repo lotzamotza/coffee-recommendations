@@ -1,4 +1,4 @@
-# coffee-recommendations
+# Coffee-Recommendations
 From the first sip to the perfect brew, this tool is designed to guide every coffee enthusiast—whether novice or expert—toward discovering their ideal coffee match, making selection simple, enjoyable, and personalized to your taste preferences.
 
 ![cf](https://github.com/user-attachments/assets/eb983823-832f-4eaf-b781-d4a402125598)
@@ -13,7 +13,7 @@ This project leverages a comprehensive dataset of coffee, encompassing various c
 
 ### Project Flow Chart:
 
-  Our [Project flow chart](Project Flowchart.jpg) was created as a visual tool to assist with project management, ensuring that each stage of our project is clearly defined and efficiently executed. The chart outlines the key phases of the project, from problem definition and data collection to model deployment and reporting. By assigning specific tasks to team members and visually representing the workflow, the chart helps us track progress, manage tasks effectively, and maintain clear communication within the team. This structured approach ensures that all project elements are aligned and contributes to a successful outcome.
+  Our ![Project flow chart](C:/Users/vocat/MCC/Projects/coffee-recommendations/Project Flowchart.jpg?raw=true "Title") was created as a visual tool to assist with project management, ensuring that each stage of our project is clearly defined and efficiently executed. The chart outlines the key phases of the project, from problem definition and data collection to model deployment and reporting. By assigning specific tasks to team members and visually representing the workflow, the chart helps us track progress, manage tasks effectively, and maintain clear communication within the team. This structured approach ensures that all project elements are aligned and contributes to a successful outcome.
 
 ### - Data Collection and Processing:
 
